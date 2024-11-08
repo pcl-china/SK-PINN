@@ -5,3 +5,5 @@ The automatic differentiation (AD) in the vanilla physics-informed neural networ
 
 ## The manuscript has been submitted and is now under review.
 ## If the manuscript is accepted the code will be made public.
+# arxiv link：
+https://arxiv.org/abs/2411.02411
