@@ -7,3 +7,14 @@ The automatic differentiation (AD) in the vanilla physics-informed neural networ
 https://www.sciencedirect.com/science/article/pii/S0045782525002282
 # arXiv link：
 https://arxiv.org/abs/2411.02411
+# Cite us
+'''@article{Pan2025skpinn,
+  author = {Pan, Cunliang and Li, Chengxuan and Liu, Yu and Zheng, Yonggang and Ye, Hongfei},
+  title = {SK-PINN: Accelerated physics-informed deep learning by smoothing kernel gradients},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  volume = {440},
+  pages={117956},
+  year = {2025},
+  doi = {10.1016/j.cma.2025.117956},
+  url = {[invalid url, do not cite]
+}
